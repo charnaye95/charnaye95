@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Charnaye!
 - 👀 I’m interested in creating meaningful applications that truly reach people and add to someone’s life. Whether its through important messaging or entertainment, I enjoy and am motivated by a user's positive experience with an application.  
-- 🌱 I’m currently working on my portfolio, and a full stack application with a Django backend and React frontend focused on therapy.
-- 💞️ I’m looking to collaborate on front end applications focused in React
+- 🌱 I’m currently working on more projects to improve my skills and continue learning new things.
+- 💞️ I’m looking to collaborate on front end applications focused in React or JavaScript
 - 📫 If you would like to contact me, please email me at: charnayegrier@gmail.com or reach out on Linkedin at https://www.linkedin.com/in/charnayegrier/
 
 <!---
