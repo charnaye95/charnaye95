@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Charnaye!
 - 👀 I’m interested in working for a company to create meaningful applications that truly reach and engage people, and add to users' lives. No matter the software, I am motivated by a user's positive experience with an application.  
 - 🌱 I’m currently working on more projects to improve my skills and continue learning new things.
-- 💞️ I’m looking to collaborate on front end applications in React or JavaScript.
+- 💞️ I’m looking to collaborate on front end applications in React and JavaScript/TypeScript.
 - 📫 If you would like to contact me, please email me at: charnayegrier@gmail.com or reach out on Linkedin at https://www.linkedin.com/in/charnayegrier/
 
 <!---
